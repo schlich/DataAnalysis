@@ -1,0 +1,8 @@
+function calculateHitRates(curveID)
+    
+    pointIDs = getPointsFromCurve(curveID);
+    for i = 1:length(pointIDs)
+        pointID = pointIDs(i);
+        
+    end
+    
